@@ -41,4 +41,4 @@ aggdat <- aggregate(combdat2, by=list(combdat2$subject,combdat2$activitylabel), 
 final <- data.frame(aggdat$Group.1, aggdat$Group.2, aggdat[,4:564])
 colnames(final)[1:2] <- c("subject","activity")
 
-write.table(final,"final.csv")
+write.table(final,"final.txt")
