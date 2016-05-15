@@ -1,3 +1,4 @@
+#Codebook of run_analysis.R
 testdat - raw import of testing data variables (X_test.txt)
     -activitynum added as a column
     -subject added as a column
