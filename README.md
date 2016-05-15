@@ -1,5 +1,4 @@
-# datasciencecoursera
-#   getting and cleaning data
+#getting and cleaning data
 
 1. Download the zip file from the URL provided. 
 2. Unzip the file. 
